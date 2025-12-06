@@ -21,4 +21,4 @@ git clone https://github.com/shadow-x404/simple-edit.git
 sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf simple-edit
-figlet -f big ™ZX ARMY | lolcat
+figlet -f big BACKBENCHER HACKING TEAM | lolcat
